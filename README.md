@@ -1,3 +1,15 @@
+**1. Clone the Repository **
+git clone https://github.com/likhith68/Student-Vaccination-frontend.git 
+cd Student-vaccination-frontend
+
+**2. Frontend Setup (React)**
+cd frontend
+npm install
+npm start
+This will start the React development server.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
