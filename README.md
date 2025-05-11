@@ -1,4 +1,4 @@
-**1. Clone the Repository **
+**1. Clone the Repository**
 git clone https://github.com/likhith68/Student-Vaccination-frontend.git 
 cd Student-vaccination-frontend
 
